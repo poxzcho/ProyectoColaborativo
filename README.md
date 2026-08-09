@@ -1,24 +1,19 @@
-# Programación Orientada a Objetos — 2026
+## 1. Integrantes del Equipo
+- Flores, Judith
+- Musso, Miguel
+- Bahamonde, Franco
 
-Actividad práctica en parejas: primer flujo de trabajo colaborativo con Git.
-Universidad Nacional de la Patagonia San Juan Bosco — Facultad de Ingeniería.
-
-## Integrantes
-
-- Estudiante A: Bahamonde Franco
-- Estudiante B: ---
-
-## Cómo ejecutar
-
-Desde la carpeta del proyecto:
-
-```
-javac -d bin src/App.java
-java -cp bin App
-```
-
-O, desde VSCode, abrir `src/App.java` y usar el botón **Run**.
-
-## Comandos
-
-La hoja de referencia con los comandos de la clase está en `COMANDOS.md`.
+## 2. Dominio y Alcance del Sistema
+..
+### Descripción del Problema
+..
+### Objetivo del Sistema
+..
+### Funcionalidades Principales (Features)
+..
+## 4. Stack Tecnológico
+- **Lenguaje:** Java 25
+- **IDE:** Visual Studio Code
+- **Base de Datos:** ---
+- **Framework de IGU:** ---
+- **Control de Versiones:** Git y GitHub Classroom
