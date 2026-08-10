@@ -1,9 +1,11 @@
 # Proyecto: Platformer - " "
 
 ## 1. Integrantes del Equipo
+- Bahamonde, Franco
 - Flores, Judith
 - Musso, Miguel
-- Bahamonde, Franco
+- Parisi, Franco
+
 
 ## 2. Dominio y Alcance del Sistema
 
